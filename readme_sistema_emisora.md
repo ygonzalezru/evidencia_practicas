@@ -36,6 +36,6 @@ Este script permite:
 - Se recomienda cambiar la contraseña en un entorno real  
 - Este proyecto es de carácter académico  
 
-## 👩‍💻 Autor
+## Autor
 
 Yesenia Gonzalez
